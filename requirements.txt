@@ -8,3 +8,5 @@ patsy
 statsmodels
 jupyter
 pyarrow
+tensorflow
+keras
